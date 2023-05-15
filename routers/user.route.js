@@ -48,3 +48,6 @@ router.get('/register',(req,res)=>{
 })
 
 module.exports = router;
+
+
+//https://nice-tan-dhole-garb.cyclic.app/auth/register
